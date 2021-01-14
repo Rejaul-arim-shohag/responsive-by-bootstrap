@@ -1,0 +1,73 @@
+.top-nav-banner{
+    background: linear-gradient(#e66465, #9198e5);
+}
+.logo-nav{
+    padding: 5px 0;
+}
+.nav-logo{
+    width:300px;
+}
+.custom-nav-link a{
+    margin:0 13px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff !important;
+}
+
+.custom-nav-link a:last-child{
+    margin-right: 0px !important;
+}
+.right-banner img{
+    width:500px
+}
+.slogan-1{
+    font-size: 49px;
+    font-weight: 600;
+    font-family: 'Merriweather', serif;
+    color: #fff;
+}
+.slogan-2{
+    color:#130f40;
+    font-size: 49px;
+    font-family: 'Merriweather', serif;
+    font-weight: 600;
+    line-height: 75px;
+}
+.custom-button{
+    background: #130f40;
+    color:#fff;
+    font-size: 22px;
+}
+.custom-button:hover{
+    background-color:#FD5B03;
+    transition: 0.6s;
+    color:#fff;
+}
+
+.cardimg{
+    width: 60%;
+    margin:10px auto;
+}
+.customtitle{
+    font-size: 25px;
+    font-weight: 600;
+}
+.customtext{
+    font-size: 25px;
+    color: #FD5B03 !important;
+}
+.card-footer{
+    border: 0;
+    background: #fff;
+}
+
+.service-quality{
+    margin-top: 100px;
+}
+.service-single-img{
+    margin-top: 10px;
+}
+
+.service-single-img{
+    width:80px;
+}
